@@ -2,7 +2,7 @@
 
 ### Machine learning regression project used to predict the price of bulldozers <br>
 
-More details on project problem, evaluation, data, etc. found here: https://www.kaggle.com/c/bluebook-for-bulldozers/data <br>
+More details on project problem, evaluation, data, etc. found here: https://www.kaggle.com/c/bluebook-for-bulldozers/data <br><br><br><br>
 
 **(Completed - no need to re-run locally) Create an environment within folder of interest:** <br>
 conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter <br>
