@@ -1,12 +1,12 @@
-# bulldozer-price-prediction-project
+# Bulldozer Price Prediction Project
 
-Create an environment:
+Create an environment within folder of interest:
 conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter
 
- Activate an environment:                                             
+Activate an environment:                                             
 conda activate /Users/.../bulldozer-price-prediction-project/env                                                                                               
 
-Deactivate and active environment:                                                                                                 
+Deactivate an active environment:                                                                                                 
 conda deactivate
 
 Launch Jupyter otebook:
