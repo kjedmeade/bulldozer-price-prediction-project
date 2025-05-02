@@ -1,6 +1,6 @@
 ## Bulldozer Price Prediction Project <br> 
 
-**Create an environment within folder of interest:** <br>
+**(Completed - no need to re-run locally) Create an environment within folder of interest:** <br>
 conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter <br>
 
 **Activate an environment:** <br>
