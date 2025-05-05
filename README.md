@@ -2,7 +2,7 @@
 
 ### Machine learning regression project used to predict the price of bulldozers <br>
 
-More details on project problem, evaluation, data, etc. found here: https://www.kaggle.com/c/bluebook-for-bulldozers/data <br><br><br>
+More details on project problem, evaluation, data, etc. found here: https://www.kaggle.com/c/bluebook-for-bulldozers/data <br><br>
 
 Commit individual files + push --force for up to date local data ? <br><br>
 
