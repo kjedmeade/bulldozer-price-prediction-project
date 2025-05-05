@@ -22,6 +22,10 @@ Conda env list<br>
 **Google Colab link:** <br>
 https://colab.research.google.com/<br>
 
+**Reference info:**<br>
+https://github.com/mrdbourke/zero-to-mastery-ml<br>
+kaggle.com/c/bluebook-for-bulldozers/data<br>
+
 **Jupyter commands (below) quoted from this link:** <br>
 https://discourse.jupyter.org/t/most-useful-keyboard-shortcuts-for-notebook-lab/18113: <br>
 
