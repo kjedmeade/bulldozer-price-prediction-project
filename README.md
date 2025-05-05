@@ -4,6 +4,8 @@
 
 More details on project problem, evaluation, data, etc. found here: https://www.kaggle.com/c/bluebook-for-bulldozers/data <br><br><br><br>
 
+Commit individual files + push --force for up to date local data ? <br><br>
+
 **(Completed - no need to re-run locally) Create an environment within folder of interest:** <br>
 conda create --prefix ./env pandas numpy matplotlib scikit-learn jupyter <br>
 
